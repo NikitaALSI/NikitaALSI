@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Nikita.
 
-I’m currently working on myself by developing my programming skills.
+I’m working on myself by developing my programming skills.
 
-I’m currently learning Python and web design.
+I’m currently learning Python and Web design.
 
 <!--
 **NikitaALSI/NikitaALSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
