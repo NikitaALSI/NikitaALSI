@@ -1,6 +1,9 @@
 ## Hi there 👋 My name is Nikita.
+
 🔭 I’m currently working on myself by developing my programming skils
+
 🌱 I’m currently learning python and web design
+
 <!--
 **NikitaALSI/NikitaALSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
